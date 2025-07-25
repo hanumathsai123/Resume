@@ -107,8 +107,7 @@ organisation on and improve my career with good services to the organisation.
                                   <td>Yes</td>
                                   <td>No</td>
                                 </tr>
-                                </table>
-                              
+                                </table>        
                             <h2>Hobbies:</h2>
                             <ul>
                               <li>Playing Cricket</li>
