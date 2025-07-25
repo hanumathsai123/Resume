@@ -12,7 +12,7 @@
 I can widen my knowledge base and work hard. I would like to be an asset to the 
 organisation on and improve my career with good services to the organisation.
           </P>
-          <table border="1">
+          <tableborder="1">
             <thead>
               <tr>
                 <td>SL.<br>NO</td>
