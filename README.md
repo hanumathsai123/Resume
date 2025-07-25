@@ -80,8 +80,7 @@ organisation on and improve my career with good services to the organisation.
                             <li>Father Name : R.Sarma</li>
                             <li>Address : 1/1 A T Agraharam ,Guntur,522004</li>
                             <li>Languages :</li>
-                          </ul>
-                          
+                          </ul>            
                             <table border='1'>
                               <theade>
                                 <tr>
